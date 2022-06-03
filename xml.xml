@@ -1,0 +1,64 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="hoteli.xsl"?>
+<Hoteli>
+    <PetZvjezdica>
+        <Hotel1>
+            <Ime>Argentina Hotel</Ime>
+            <Lokacija>Buenos Aires</Lokacija>
+            <Cijena>2867 HRK</Cijena>
+            <SnizenaCijena>2100 HRK</SnizenaCijena>
+        </Hotel1>
+        <Hotel2>
+            <Ime>Australis Campana</Ime>
+            <Lokacija>Sydney</Lokacija>
+            <Cijena>3715 HRK</Cijena>
+            <SnizenaCijena>2789 HRK</SnizenaCijena>
+        </Hotel2>
+        <Hotel3>
+            <Ime>Dubrovnik Palace</Ime>
+            <Lokacija>Dubrovnik</Lokacija>
+            <Cijena>2875 HRK</Cijena>
+            <SnizenaCijena>2000 HRK</SnizenaCijena>
+        </Hotel3>
+        <Hotel4>
+            <Ime>Villa Dubrovnik</Ime>
+            <Lokacija>Dubrovnik</Lokacija>
+            <Cijena>4672 HRK</Cijena>
+            <SnizenaCijena>3500 HRK</SnizenaCijena>
+        </Hotel4>
+        <Hotel5>
+            <Ime>Hotel Lapad</Ime>
+            <Lokacija>Lapad</Lokacija>
+            <Cijena>3299 HRK</Cijena>
+            <SnizenaCijena>2299 HRK</SnizenaCijena>
+        </Hotel5>
+    </PetZvjezdica>
+    <CetiriZvjezdice>
+        <Hotel6>
+            <Ime>Hotel Atlantico</Ime>
+            <Lokacija>Lisabon</Lokacija>
+            <Cijena>3100 HRK</Cijena>
+            <SnizenaCijena>2250 HRK</SnizenaCijena>
+        </Hotel6>
+        <Hotel7>
+            <Ime>Rixos Premium</Ime>
+            <Lokacija>Dubrovnik</Lokacija>
+            <Cijena>2961 HRK</Cijena>
+            <SnizenaCijena>1999 HRK</SnizenaCijena>
+        </Hotel7>
+    </CetiriZvjezdice>
+    <TriZvjezdice>
+        <Hotel8>
+            <Ime>SUNce Palace</Ime>
+            <Lokacija>Dubrovnik</Lokacija>
+            <Cijena>2867 HRK</Cijena>
+            <SnizenaCijena>2067 HRK</SnizenaCijena>
+        </Hotel8>
+        <Hotel9>
+            <Ime>Domiuns Little Palace</Ime>
+            <Lokacija>Split</Lokacija>
+            <Cijena>3971 HRK</Cijena>
+            <SnizenaCijena>3150 HRK</SnizenaCijena>
+        </Hotel9>
+    </TriZvjezdice>
+</Hoteli>
